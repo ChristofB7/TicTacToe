@@ -1,0 +1,26 @@
+Tic Tac Toe
+
+Description:
+The purpose of this Tic Tac Toe game is to familiarize myself with app development. The key is to get a basic understanding 
+of what really goes into an app. Throughout the project I have learned much on the purpose of each screen and what is required 
+to make a successful application. It requires some form of interactivity while aslo relaying whatever information the developer
+wishes to send. I also learned about instances and how rotating a phone changes and alters the instance. This was key to getting
+a succesful rotation working.
+
+Installation:
+In order to download and use the Tic Tac Toe game I have made one must already have Android Studio. The following steps are to download
+the folder and open it as an existing project in Android Studio.
+There is also an apk installation for any android device called app-debug.apk. Simply install this into your android device.
+
+What works in this project:
+I have 9 buttons that set text color, text, and assign a value to a "behind the scenes game board".
+The game board checks to see if three buttons in a row, column, or diagonal are the same.
+The game board stops the user from entering any other values after this condition has been met
+There is a button to reset the buttons, their text, and the game board.
+The instanced is saved, meaning that if the user were to rotate the screen they would not lose progress same applies for the
+settings activity
+There is a secondary activity
+
+What is not completed:
+The secondary activity is a settings activity template that has no current functionality
+adding various settings and functionality would be ideal
